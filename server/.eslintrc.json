@@ -1,0 +1,22 @@
+{
+    "parser": "babel-eslint",
+    "parserOptions": {
+      "sourceType": "module",
+      "allowImportExportEverywhere": false
+    },
+    "extends": "airbnb",
+    "installedESLint": true,
+    "rules": {
+      "arrow-body-style": 0,
+      "no-console": 0,
+      "no-unused-vars": 0,
+      "object-curly-spacing": 0,
+      "no-param-reassign": 0,
+      "no-underscore-dangle": 0,
+      "max-len": 0,
+      "object-shorthand": 0,
+      "func-names": 0,
+      "no-nested-ternary": 2,
+      "space-before-function-paren": 0
+    }
+}
