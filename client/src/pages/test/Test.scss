@@ -1,0 +1,21 @@
+$gray-900: #212121;
+section[name=Test] {
+    .icon {
+      height: 65px;
+    }
+    .aux-content {
+      background: #f8fbff;
+    }
+    .fa {
+      font-size: 1.7rem;
+    }
+    .aux-dropdown {
+      padding: 0.7rem;
+    }
+    a {
+      color: $gray-900;
+    }
+    a:hover {
+      color: #50b8de;
+    }
+}
